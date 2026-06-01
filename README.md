@@ -1,4 +1,4 @@
-# AetherMind Source Archiver
+# Thread Source Archiver
 
 Open-source Python toolkit for turning public research-link threads into structured, AI-ready archives.
 
