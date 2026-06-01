@@ -1,0 +1,16 @@
+[
+  {
+    "postUrl": "https://x.com/example/status/1000",
+    "postId": "1000",
+    "replyId": "1001",
+    "replyUrl": "https://x.com/example/status/1001",
+    "replyText": "Interesting AI project: https://t.co/example1",
+    "timestamp": 1746047965000,
+    "conversationId": "1000",
+    "media": [],
+    "author": {
+      "name": "Example Curator",
+      "screenName": "example"
+    }
+  }
+]
